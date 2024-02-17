@@ -64,54 +64,24 @@ while(dev.isCoding() && dev.isStuck())
 
 
 <center>
-<a href="https://github.com/chiraag-kakar/Crack-Buzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/Saurabh8657/Saurav_Boat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh8657&repo=Saurav_Boat&theme=ayu-mirage&layout=compact" />
 </a>
-<a href="https://github.com/chiraag-kakar/sharenlearn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=sharenlearn&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/Saurabh8657/Team_kushal_koder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh8657&repo=Team_kushal_koder&theme=ayu-mirage&layout=compact" />
 </a>
-<a href="https://github.com/chiraag-kakar/getjobs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=getjobs&theme=react&layout=compact" />
+<a href="https://github.com/Saurabh8657/Team_Digital_Galaxy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh8657&repo=Team_Digital_Galaxy&theme=react&layout=compact" />
 </a>
-<a href="https://github.com/chiraag-kakar/moviebuzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=moviebuzz&theme=react&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/My-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=dark&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/RailsBlog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=dark&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/Netclone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=dracula&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/contactme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=contactme&theme=dracula&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/PyAutomation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=slateorange&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/scholarscraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=scholarscraper&theme=slateorange&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/theflaskestate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=theflaskestate&theme=midnight-purple&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/todo-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=todo-api&theme=midnight-purple&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/predict">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=predict&theme=omni&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/music">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=music&theme=omni&layout=compact" />
+<a href="https://github.com/Saurabh8657/Saurav_Figma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh8657&repo=Saurav_Figma&theme=react&layout=compact" />
 </a>
 </center>
 
 
 ---
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=chiraag-kakar&layout=compact" alt="saurav-skl" />
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh8657&theme=react&layout=compact" alt="saurav-ganguly" />
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
