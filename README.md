@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh8657" alt="Saurabh-Ganguly" /> </p>
 
-
+<h2 align="center">Hi 👋, I'm Saurabh Ganguly</h1>
 <p align="center">
 <br><img src="https://github.com/Saurabh8657/Saurabh8657/blob/main/hadder.gif" width="280px"><br><br>
 </p>
@@ -16,7 +16,7 @@
 </a>
 <br/>
 <br/>
-<h2 align="center">Hi 👋, I'm Saurabh Ganguly</h1>
+
 
 
 ```js
