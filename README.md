@@ -5,7 +5,7 @@
 <br><img src="https://github.com/Saurabh8657/Saurabh8657/blob/main/hadder.gif" width="280px"><br><br>
 </p>
 <h3 align="right">Connect with me :</h3>
-<a href="https://www.linkedin.com/in/saurabh-ganguly/">
+<a href="https://www.linkedin.com/in/saurabhganguly38/">
   <img align="right" alt="Saurabh Ganguly - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
 <a href="https://www.instagram.com/sauravganguly_9/">
