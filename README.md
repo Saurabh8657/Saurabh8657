@@ -1,8 +1,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh8657" alt="Saurabh-Ganguly" /> </p>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=RantuBangal&label=Profile%20views&color=0e75b6&style=flat" alt="Saurabh-Ganguly"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Saurabh Ganguly</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
